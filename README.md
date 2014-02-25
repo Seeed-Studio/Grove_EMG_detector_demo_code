@@ -23,7 +23,7 @@ global distributors and partners to push open hardware movement.<br>
 
 
 
-
+[![Analytics](https://ga-beacon.appspot.com/UA-46589105-3/Grove_EMG_detector_demo_code)](https://github.com/igrigorik/ga-beacon)
 
 
 
